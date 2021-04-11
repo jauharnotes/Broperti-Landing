@@ -80,7 +80,7 @@ button:hover {
     background-color: #62c267;
 }
 
-h2 {
+.container h2 {
     /* position: relative; */
     margin-top: 119px;
     color: white;
@@ -88,7 +88,7 @@ h2 {
     font-weight: 600;
 }
 
-p {
+.container p {
     /* position: relative; */
     color: #9094A2;
     font-size: 16px;
@@ -183,6 +183,7 @@ input[type=text] {
     display: flex;
     justify-content: center;
     margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .data {
@@ -206,5 +207,84 @@ input[type=text] {
 .data1 h1 {
     font-size: 36px;
     color: #0F1837;
+}
+
+/* product */
+
+.product {
+    background-color: white;
+    height: 906px;
+    padding-top: 100px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.tittle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.tittle h2 {
+    font-size: 32px;
+}
+
+.tittle a {
+    font-size: 16px;
+    color: #9094A2;
+}
+
+.items1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.items2 {
+    width: 293px;
+}
+
+.items2 img {
+    position: absolute;
+    width: 293px;
+}
+
+.type {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    border-radius: 0 0 25px;
+    width: 133px;
+    height: 50px;
+}
+
+.type p {
+    color: #5943A6;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.subtittle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 360px;
+}
+
+.location h1 {
+    color: #132039;
+    font-size: 20px;
+}
+
+.location p {
+    color: #898889;
+    font-size: 16px;
+    font-weight: 200;
+}
+
+.price h1{
+    color: #0A9F82;
+    font-size: 20px;
+    font-weight: 500;
 }
   
