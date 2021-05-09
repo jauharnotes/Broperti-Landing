@@ -1,1 +1,1 @@
-[![Preview](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-react/dashboard-page.png?raw=true)]
+[![Preview](https://github.com/jauharnotes/Broperti-Landing/blob/main/asset/img/prevew.png?raw=true)]
